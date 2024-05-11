@@ -1,0 +1,50 @@
+body{background-color: black;
+    background-image: url("https://4kwallpapers.com/images/wallpapers/stars-galaxy-3840x2160-10307.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    }
+    li {list-style-type:none;
+        float: left;
+      }
+    .navbar{ display: flex;
+    margin-top: 3%;}
+    ul{ border-radius: 21px;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    margin:auto;
+    background-color: white;}
+      li {list-style-type:none;
+        float: left;
+      
+        
+      }
+      
+      li a {
+        display: block;
+        color:#111;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 100;
+        letter-spacing:2px;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color:gray;
+      }
+      .active {
+        background-color: #04AA6D;
+      }
+    .mySlides {display:none;}
+    h1{font-size: 400%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 20px;
+        font-weight: 500;
+    color: transparent;
+    -webkit-text-stroke: 0.7px white;}
+    .container{padding-left: 40%;}
+    span{padding-left: 12%;}
+    
